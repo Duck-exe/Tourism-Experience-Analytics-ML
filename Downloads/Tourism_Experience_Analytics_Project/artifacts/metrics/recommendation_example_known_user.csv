@@ -1,0 +1,11 @@
+AttractionId,Attraction,AttractionTypeBroad,AttractionCityName,AttractionCountry,AttractionAddress,RecommendationScore,PredictedRating,HistoricalVisitCount,HistoricalAverageRating
+1310,Crystal Bay - N'Djamena,Beach,N'Djamena,Chad,"Main Street, N'Djamena, Chad",0.7359647404505387,4.15769884753448,0,4.15769884753448
+1311,Farmers' Market - N'Djamena,Market,N'Djamena,Chad,"Main Street, N'Djamena, Chad",0.7217042115572967,4.15769884753448,0,4.15769884753448
+1313,Farmers' Market - N'Djamena,Market,N'Djamena,Chad,"Main Street, N'Djamena, Chad",0.7217042115572967,4.15769884753448,0,4.15769884753448
+1312,Cultural Heritage Center - N'Djamena,Museum,N'Djamena,Chad,"Main Street, N'Djamena, Chad",0.7217042115572967,4.15769884753448,0,4.15769884753448
+1133,Jomblang Cave,Nature,N'Djamena,Chad,"Jetis Wetan, Pacarejo, Semanu 55581 Indonesia",0.6236704691325572,2.94915254237882,135,4.503703703703704
+947,Mount Semeru Volcano,Nature,South Region,Cameroon,Malang Lumajang,0.6116532280995794,3.5116788242273014,83,4.698795180722891
+1308,Paradise Beach - Douala,Beach,Douala,Cameroon,"Main Street, Douala, Cameroon",0.604564152791381,4.15769884753448,0,4.15769884753448
+1307,Art Gallery - Douala,Museum,Douala,Cameroon,"Main Street, Douala, Cameroon",0.5903036238981391,4.15769884753448,0,4.15769884753448
+1309,Sacred Shrine - Douala,Religious,Douala,Cameroon,"Main Street, Douala, Cameroon",0.5903036238981391,4.15769884753448,0,4.15769884753448
+1306,Eco Park - Douala,Park,Douala,Cameroon,"Main Street, Douala, Cameroon",0.5903036238981391,4.15769884753448,0,4.15769884753448

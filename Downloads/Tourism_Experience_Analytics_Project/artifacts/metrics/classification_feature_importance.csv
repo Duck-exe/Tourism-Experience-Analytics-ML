@@ -1,0 +1,11 @@
+feature,importance
+AttractionCityName,0.30605412
+AttractionCountry,0.11987927
+Attraction,0.10816998
+UserContinent,0.089136854
+AttractionTypeLabel,0.07645013
+UserRegion,0.07381952
+UserCountry,0.06802915
+VisitMonth,0.057967134
+UserCityName,0.053304993
+VisitYear,0.047188886

@@ -1,0 +1,31 @@
+{
+  "classification_features": [
+    "UserContinent",
+    "UserRegion",
+    "UserCountry",
+    "UserCityName",
+    "VisitYear",
+    "VisitMonth",
+    "Attraction",
+    "AttractionTypeLabel",
+    "AttractionCityName",
+    "AttractionCountry"
+  ],
+  "regression_features": [
+    "UserContinent",
+    "UserRegion",
+    "UserCountry",
+    "UserCityName",
+    "VisitYear",
+    "VisitMonth",
+    "Attraction",
+    "AttractionTypeLabel",
+    "AttractionCityName",
+    "AttractionCountry",
+    "VisitModeName"
+  ],
+  "classification_target": "VisitModeName",
+  "regression_target": "Rating",
+  "split": "70% train / 15% validation / 15% test, random_state=42; target-stratified",
+  "leakage_note": "Rating is deliberately excluded from VisitMode classification; UserId is excluded from both predictive models to avoid memorizing user identity."
+}

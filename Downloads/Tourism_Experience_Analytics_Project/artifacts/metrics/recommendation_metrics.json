@@ -1,0 +1,9 @@
+{
+  "collaborative_rmse": 1.0939508945766347,
+  "map_at_10_collaborative": 0.09525039682539682,
+  "map_at_10_content": 0.20834880952380952,
+  "map_at_10_hybrid": 0.19120396825396824,
+  "leave_one_out_test_users": 10618,
+  "map_evaluated_relevant_users": 1000,
+  "relevance_threshold": "held-out Rating >= 4"
+}

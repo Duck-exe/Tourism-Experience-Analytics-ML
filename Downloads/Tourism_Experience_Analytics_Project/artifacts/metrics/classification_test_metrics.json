@@ -1,0 +1,18 @@
+{
+  "best_model": "XGBoost",
+  "accuracy": 0.49408060453400504,
+  "precision_weighted": 0.48525252154569853,
+  "recall_weighted": 0.49408060453400504,
+  "f1_weighted": 0.4482310485421141,
+  "f1_macro": 0.2974002516529339,
+  "classes": [
+    "Business",
+    "Couples",
+    "Family",
+    "Friends",
+    "Solo"
+  ],
+  "train_rows": 37051,
+  "validation_rows": 7939,
+  "test_rows": 7940
+}

@@ -1,0 +1,14 @@
+{
+  "raw_transaction_rows": 52930,
+  "clean_transaction_rows": 52930,
+  "transaction_exact_duplicates_removed": 0,
+  "user_rows": 33530,
+  "user_missing_city_ids_filled_with_0": 4,
+  "historical_attractions": 30,
+  "expanded_catalog_attractions": 1698,
+  "expanded_catalog_mixed_text_type_rows": 1668,
+  "transaction_user_join_coverage": 1.0,
+  "transaction_attraction_join_coverage": 1.0,
+  "rating_min": 1,
+  "rating_max": 5
+}

@@ -1,0 +1,16 @@
+{
+  "transactions": 52930,
+  "users": 33530,
+  "historical_attractions": 30,
+  "average_rating": 4.158,
+  "median_rating": 4.0,
+  "five_star_share": 0.4522,
+  "most_common_visit_mode": "Couples",
+  "most_common_visit_mode_share": 0.4085,
+  "peak_year": 2016,
+  "peak_month": 8,
+  "most_visited_attraction": "Sacred Monkey Forest Sanctuary",
+  "most_visited_attraction_visits": 13198,
+  "highest_volume_user_continent": "Asia",
+  "highest_avg_rating_visit_mode": "Business"
+}

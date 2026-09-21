@@ -1,0 +1,251 @@
+UserContinent,UserRegion,UserCountry,UserCityName,VisitYear,VisitMonth,Attraction,AttractionTypeLabel,AttractionCityName,AttractionCountry,VisitModeName,actual_rating,predicted_rating,absolute_error
+Europe,Southern Europe,Italy,Rovereto,2016,8,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Friends,4.0,4.339911,0.33991098403930664
+Europe,Western Europe,United Kingdom,Buxton,2019,8,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.74506,0.2549400329589844
+Europe,Western Europe,France,Ouistreham,2017,5,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,1.0,4.184914,3.1849141120910645
+Asia,South East Asia,Indonesia,Ubud,2018,4,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.3621106,0.6378893852233887
+Australia & Oceania,Australia,Australia,Sydney,2018,1,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.202833,0.7971668243408203
+Australia & Oceania,Oceania,New Zealand,Auckland Central,2015,12,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,4.0,4.232091,0.23209095001220703
+Australia & Oceania,Oceania,New Zealand,Christchurch,2015,7,Sanur Beach,Beaches,Douala,Cameroon,Couples,5.0,3.876328,1.1236720085144043
+Asia,South East Asia,Singapore,Singapore,2014,4,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Friends,5.0,4.128939,0.871060848236084
+America,Northern America,United States,Scottsdale,2015,11,Sanur Beach,Beaches,Douala,Cameroon,Solo,5.0,3.9823687,1.0176312923431396
+America,Northern America,United States,New York City,2017,10,Sanur Beach,Beaches,Douala,Cameroon,Couples,4.0,3.770099,0.22990107536315918
+Asia,South Asia,India,Mumbai,2014,12,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,3.99885,1.0011498928070068
+Europe,Central Europe,Luxembourg,Luxembourg City,2016,10,Uluwatu Temple,Religious Sites,Douala,Cameroon,Friends,4.0,4.307043,0.30704307556152344
+Europe,Western Europe,United Kingdom,Cardiff,2016,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.342159,0.6578412055969238
+America,Northern America,United States,Alexandria,2017,2,Sanur Beach,Beaches,Douala,Cameroon,Couples,1.0,3.6069655,2.6069655418395996
+Asia,South Asia,India,Hyderabad,2016,8,Merapi Volcano,Volcanos,N'Djamena,Chad,Solo,3.0,4.1412663,1.1412663459777832
+Australia & Oceania,Oceania,New Zealand,Auckland Central,2017,2,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Friends,4.0,4.3253565,0.32535648345947266
+Asia,South Asia,India,Jaipur,2018,12,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Couples,4.0,4.0159554,0.015955448150634766
+Australia & Oceania,Australia,Australia,Western Australia,2016,4,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Couples,4.0,4.124157,0.12415695190429688
+Asia,South Asia,India,New Delhi,2017,7,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Family,5.0,4.2705946,0.729405403137207
+Australia & Oceania,Australia,Australia,Perth,2013,7,Waterbom Bali,Water Parks,Douala,Cameroon,Friends,5.0,4.689283,0.3107171058654785
+Asia,South East Asia,Indonesia,Jakarta,2016,6,Malang City Square,Points of Interest & Landmarks,South Region,Cameroon,Solo,3.0,3.8636005,0.863600492477417
+Asia,South East Asia,Indonesia,Bali,2014,12,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,4.0,4.191142,0.19114208221435547
+Asia,South East Asia,Singapore,Singapore,2016,9,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Family,3.0,4.1320076,1.1320075988769531
+Asia,East Asia,Japan,Fussa,2016,4,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,3.0,4.190561,1.1905608177185059
+Asia,East Asia,China,Shanghai,2013,4,Nusa Dua Beach,Beaches,Douala,Cameroon,Family,5.0,4.1765757,0.8234243392944336
+Asia,South East Asia,Singapore,Singapore,2014,8,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Couples,4.0,4.163128,0.16312789916992188
+Australia & Oceania,Australia,Australia,Mandurah,2019,11,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.719554,0.28044605255126953
+Asia,Middle East,Jordan,Amman,2019,8,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.4486995,0.5513005256652832
+Australia & Oceania,Australia,Australia,Perth,2017,8,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Family,4.0,3.972752,0.027247905731201172
+Europe,Central Europe,Lithuania,Vilnius,2016,11,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.4956126,0.504387378692627
+America,Northern America,United States,Nevada City,2018,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,3.6059778,1.3940222263336182
+Asia,South Asia,India,Chennai District,2018,7,Uluwatu Temple,Religious Sites,Douala,Cameroon,Couples,5.0,4.2327733,0.7672266960144043
+Australia & Oceania,Oceania,New Zealand,Havelock North,2015,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Family,5.0,4.129535,0.8704648017883301
+Europe,Northern Europe,Denmark,Kastrup,2017,2,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Friends,5.0,3.8962657,1.1037342548370361
+Europe,Western Europe,United Kingdom,Edinburgh,2013,10,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,3.9772346,1.0227653980255127
+Asia,South East Asia,Thailand,Bangkok,2019,10,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,1.0,3.9940014,2.9940013885498047
+Europe,Western Europe,Ireland,Dublin,2016,5,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Solo,5.0,4.007081,0.9929189682006836
+Asia,South East Asia,Indonesia,Surabaya,2016,9,Goa Cina Beach,Beaches,South Region,Cameroon,Friends,4.0,4.324044,0.32404422760009766
+America,Northern America,Canada,Calgary,2015,7,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Solo,5.0,4.2617903,0.7382097244262695
+Europe,Western Europe,United Kingdom,Queen Charlotte,2015,2,Museum Malang Tempo Doeloe,Speciality Museums,South Region,Cameroon,Family,5.0,4.5474286,0.45257139205932617
+America,Northern America,United States,New York City,2017,5,Sanur Beach,Beaches,Douala,Cameroon,Family,4.0,3.7405334,0.25946664810180664
+Asia,South East Asia,Malaysia,Kuala Lumpur,2016,6,Sewu Temple,Ancient Ruins,N'Djamena,Chad,Solo,1.0,4.1316886,3.1316885948181152
+Europe,Western Europe,United Kingdom,Brighton and Hove,2015,9,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.3226924,0.6773076057434082
+Europe,Western Europe,United Kingdom,Leamington Spa,2016,2,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.3404956,0.6595044136047363
+America,Northern America,United States,San Jose,2014,9,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.283785,0.7162151336669922
+Australia & Oceania,Australia,Australia,Fremantle,2013,12,Waterbom Bali,Water Parks,Douala,Cameroon,Family,4.0,4.476642,0.4766421318054199
+Asia,Middle East,United Arab Emirates,Dubai,2017,5,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.303147,0.6968531608581543
+Asia,East Asia,China,Hong Kong,2020,2,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,1.0,4.0080547,3.008054733276367
+Australia & Oceania,Australia,Australia,Whittlesea,2017,11,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Friends,5.0,4.2440605,0.7559394836425781
+Asia,South East Asia,Indonesia,Cirebon,2015,6,Malioboro Road,Flea & Street Markets,N'Djamena,Chad,Family,4.0,4.3009357,0.3009357452392578
+Asia,South East Asia,Indonesia,Ubud,2016,4,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Friends,5.0,4.2928653,0.7071347236633301
+Australia & Oceania,Australia,Australia,Victoria,2015,5,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.152677,0.847322940826416
+Asia,South East Asia,Singapore,Singapore,2016,4,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,4.0,3.9907553,0.009244680404663086
+Asia,South Asia,Bangladesh,Dhaka City,2017,1,Uluwatu Temple,Religious Sites,Douala,Cameroon,Friends,5.0,4.5189815,0.4810185432434082
+Asia,South East Asia,Malaysia,Kuala Lumpur,2016,11,Merapi Volcano,Volcanos,N'Djamena,Chad,Family,3.0,3.715606,0.7156059741973877
+America,Northern America,United States,Placentia,2018,9,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,4.0,4.2458653,0.2458653450012207
+Australia & Oceania,Australia,Australia,Adelaide,2015,4,Uluwatu Temple,Religious Sites,Douala,Cameroon,Family,5.0,4.244004,0.7559962272644043
+Asia,South East Asia,Indonesia,Tangerang,2018,2,Seminyak Beach,Beaches,Douala,Cameroon,Couples,5.0,3.9031684,1.0968315601348877
+Australia & Oceania,Australia,Australia,Melbourne,2015,7,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Family,3.0,4.0883965,1.0883965492248535
+America,Northern America,Canada,Winnipeg,2015,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.379913,0.6200871467590332
+Asia,South East Asia,Singapore,Singapore,2016,5,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,4.0,3.9720533,0.02794671058654785
+Australia & Oceania,Australia,Australia,Bunbury,2018,11,Sanur Beach,Beaches,Douala,Cameroon,Family,5.0,4.080877,0.9191231727600098
+Africa,Southern Africa,South Africa,Krugersdorp,2017,12,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.2498903,0.7501096725463867
+America,Northern America,Canada,Stony Plain,2016,12,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,3.3841472,1.6158528327941895
+Europe,Southern Europe,Bulgaria,Sofia,2019,4,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,4.1084743,0.8915257453918457
+America,Northern America,United States,San Diego,2015,3,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,4.0,4.352916,0.35291576385498047
+Europe,Northern Europe,Finland,Espoo,2016,11,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Family,3.0,3.892295,0.8922948837280273
+Asia,South East Asia,Philippines,Manila,2017,3,Uluwatu Temple,Religious Sites,Douala,Cameroon,Friends,4.0,4.1688094,0.1688094139099121
+Europe,Central Europe,Germany,Freiburg im Breisgau,2017,4,Seminyak Beach,Beaches,Douala,Cameroon,Couples,4.0,3.481101,0.5188989639282227
+Australia & Oceania,Australia,Australia,Geelong,2016,7,Waterbom Bali,Water Parks,Douala,Cameroon,Couples,5.0,4.5643544,0.43564558029174805
+Europe,Western Europe,United Kingdom,London,2018,4,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,3.0,4.359582,1.3595819473266602
+Asia,South East Asia,Indonesia,Purwokerto,2016,2,Sewu Temple,Ancient Ruins,N'Djamena,Chad,Solo,4.0,4.0946064,0.09460639953613281
+Australia & Oceania,Australia,Australia,Perth,2019,9,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Solo,4.0,3.9728677,0.027132272720336914
+Asia,South East Asia,Indonesia,Kerobokan,2015,1,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Couples,4.0,4.2927847,0.2927846908569336
+Australia & Oceania,Australia,Australia,Sydney,2016,9,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.2671094,0.7328906059265137
+Australia & Oceania,Australia,Australia,St Helens,2016,8,Sanur Beach,Beaches,Douala,Cameroon,Friends,4.0,4.1101575,0.11015748977661133
+Europe,Western Europe,United Kingdom,Derbyshire,2018,8,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.3299594,0.6700406074523926
+America,Northern America,United States,New York City,2013,6,Merapi Volcano,Volcanos,N'Djamena,Chad,Solo,3.0,3.826966,0.8269660472869873
+America,Northern America,United States,Portal,2017,2,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.2525735,0.7474265098571777
+Asia,South Asia,India,Mumbai,2017,11,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Couples,5.0,4.314468,0.6855320930480957
+Asia,East Asia,China,Beijing,2016,2,Sanur Beach,Beaches,Douala,Cameroon,Couples,5.0,3.9362507,1.0637493133544922
+Australia & Oceania,Australia,Australia,Appin,2015,11,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,4.0,4.125673,0.1256728172302246
+Europe,Western Europe,United Kingdom,Doncaster,2018,7,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Family,4.0,4.2768865,0.2768864631652832
+Asia,South Asia,Pakistan,Karachi,2018,1,Nusa Dua Beach,Beaches,Douala,Cameroon,Couples,5.0,3.9121747,1.0878252983093262
+Europe,Western Europe,United Kingdom,Guildford,2019,2,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Couples,3.0,3.9064968,0.9064967632293701
+Asia,South East Asia,Singapore,Singapore,2018,5,Merapi Volcano,Volcanos,N'Djamena,Chad,Couples,4.0,3.9078324,0.09216761589050293
+Australia & Oceania,Australia,Australia,Mooloolaba,2013,2,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Family,4.0,4.033285,0.03328514099121094
+Australia & Oceania,Australia,Australia,Perth,2014,4,Seminyak Beach,Beaches,Douala,Cameroon,Solo,5.0,3.7539856,1.2460143566131592
+Australia & Oceania,Australia,Australia,Melbourne,2016,12,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.6624603,0.3375396728515625
+America,Northern America,United States,San Diego,2014,10,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.714937,0.2850627899169922
+Asia,South East Asia,Indonesia,Jakarta,2013,11,Waterbom Bali,Water Parks,Douala,Cameroon,Friends,4.0,4.6840854,0.6840853691101074
+Australia & Oceania,Australia,Australia,Australia,2018,12,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Friends,5.0,4.3597775,0.6402225494384766
+Australia & Oceania,Oceania,New Zealand,Queenstown,2014,12,Kuta Beach - Bali,Beaches,Douala,Cameroon,Couples,1.0,2.8107274,1.8107273578643799
+America,Northern America,United States,California,2013,4,Nusa Dua Beach,Beaches,Douala,Cameroon,Couples,4.0,3.8535202,0.14647984504699707
+Asia,South Asia,India,Bengaluru,2018,12,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Couples,1.0,4.394933,3.3949332237243652
+Asia,East Asia,Taiwan,Taipei,2015,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.157409,0.8425908088684082
+Australia & Oceania,Australia,Australia,Adelaide,2017,9,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Couples,4.0,4.031647,0.0316472053527832
+Africa,Southern Africa,South Africa,Johannesburg,2019,11,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Family,2.0,3.920075,1.9200749397277832
+Australia & Oceania,Australia,Australia,Pinjarra,2013,7,Waterbom Bali,Water Parks,Douala,Cameroon,Family,3.0,4.6904364,1.6904363632202148
+Asia,South East Asia,Malaysia,Malaysia,2016,4,Yogyakarta Palace,Historic Sites,N'Djamena,Chad,Friends,3.0,3.8095179,0.8095178604125977
+Europe,Central Europe,Poland,Warsaw,2018,8,Water Castle (Tamansari),Points of Interest & Landmarks,N'Djamena,Chad,Family,3.0,3.9000325,0.9000325202941895
+America,Northern America,United States,Greenwich,2016,1,Malioboro Road,Flea & Street Markets,N'Djamena,Chad,Couples,5.0,3.8850584,1.1149415969848633
+Europe,Western Europe,United Kingdom,London,2017,3,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Family,5.0,4.342571,0.6574292182922363
+Europe,Western Europe,United Kingdom,Crewe,2018,9,Sanur Beach,Beaches,Douala,Cameroon,Couples,4.0,4.0619283,0.06192827224731445
+Asia,South East Asia,Malaysia,Kuala Lumpur,2018,9,Malioboro Road,Flea & Street Markets,N'Djamena,Chad,Solo,5.0,4.1595383,0.8404617309570312
+Asia,South East Asia,Indonesia,Mataram,2016,11,Yogyakarta Palace,Historic Sites,N'Djamena,Chad,Solo,3.0,3.7806401,0.7806401252746582
+Asia,South East Asia,Indonesia,Jakarta,2015,12,Malioboro Road,Flea & Street Markets,N'Djamena,Chad,Solo,4.0,3.6818826,0.3181173801422119
+Australia & Oceania,Australia,Australia,Melbourne,2014,2,Waterbom Bali,Water Parks,Douala,Cameroon,Friends,4.0,4.5555677,0.555567741394043
+Asia,South Asia,India,Chennai (Madras),2017,9,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.2476144,0.7523856163024902
+America,Northern America,United States,Tenafly,2017,1,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,3.0,4.244004,1.2440037727355957
+Asia,Middle East,Kuwait,Kuwait,2015,8,Waterbom Bali,Water Parks,Douala,Cameroon,Couples,5.0,4.5998883,0.40011167526245117
+Europe,Western Europe,United Kingdom,London,2019,5,Waterbom Bali,Water Parks,Douala,Cameroon,Friends,5.0,4.641002,0.35899782180786133
+America,Northern America,United States,Texas,2015,8,Kuta Beach - Bali,Beaches,Douala,Cameroon,Friends,4.0,3.7292154,0.2707846164703369
+Asia,South East Asia,East Timor,Dili,2014,11,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Couples,3.0,3.6540468,0.6540467739105225
+Europe,Western Europe,United Kingdom,Greater London,2019,5,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Friends,5.0,4.089729,0.910271167755127
+Australia & Oceania,Australia,Australia,Atherton,2016,2,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,4.0,4.3222647,0.3222646713256836
+Asia,South East Asia,Malaysia,Kuala Lumpur,2019,5,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,3.0,4.317867,1.3178668022155762
+Asia,South Asia,India,Coimbatore,2016,10,Uluwatu Temple,Religious Sites,Douala,Cameroon,Friends,5.0,4.4869328,0.5130672454833984
+Asia,South East Asia,Indonesia,Bali,2017,3,Coban Rondo Waterfall,Waterfalls,South Region,Cameroon,Solo,5.0,4.2152467,0.7847533226013184
+Asia,South East Asia,Indonesia,Sanur,2014,7,Uluwatu Temple,Religious Sites,Douala,Cameroon,Family,5.0,4.4359407,0.5640592575073242
+Asia,South Asia,Bangladesh,Dhaka City,2017,3,Kuta Beach - Bali,Beaches,Douala,Cameroon,Couples,2.0,3.6613114,1.661311388015747
+Asia,South East Asia,Indonesia,Purwokerto,2019,3,Yogyakarta Palace,Historic Sites,N'Djamena,Chad,Couples,4.0,3.1439676,0.8560323715209961
+Australia & Oceania,Australia,Australia,Sandringham,2018,7,Nusa Dua Beach,Beaches,Douala,Cameroon,Family,3.0,4.209985,1.2099847793579102
+Europe,Western Europe,United Kingdom,London,2018,7,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,5.0,4.0547957,0.9452042579650879
+Asia,Middle East,Saudi Arabia,Riyadh,2016,9,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.414861,0.5851387977600098
+Asia,South East Asia,Indonesia,Ubud,2016,3,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.378545,0.621455192565918
+Europe,Western Europe,United Kingdom,Durham,2017,9,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.3699427,0.6300573348999023
+Asia,South East Asia,Malaysia,Penang Island,2014,8,Merapi Volcano,Volcanos,N'Djamena,Chad,Friends,4.0,4.12242,0.12241983413696289
+Asia,South East Asia,Indonesia,Malang,2019,11,Bromo Tengger Semeru National Park,National Parks,South Region,Cameroon,Solo,5.0,4.6838965,0.316103458404541
+Australia & Oceania,Australia,Australia,Melbourne,2016,9,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.743085,0.2569150924682617
+Australia & Oceania,Australia,Australia,Melbourne,2014,4,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.6545467,0.34545326232910156
+Asia,South East Asia,Singapore,Singapore,2016,9,Seminyak Beach,Beaches,Douala,Cameroon,Family,5.0,4.0601654,0.9398345947265625
+America,Northern America,United States,Waikiki,2015,1,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Family,5.0,4.1087494,0.8912506103515625
+Australia & Oceania,Australia,Australia,Melbourne,2019,3,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,4.0,4.110572,0.11057186126708984
+Asia,South Asia,India,Mumbai,2015,6,Uluwatu Temple,Religious Sites,Douala,Cameroon,Couples,5.0,4.3362365,0.6637635231018066
+America,Northern America,United States,Greenwich,2017,3,Kalibiru National Park,National Parks,N'Djamena,Chad,Friends,5.0,4.2667775,0.733222484588623
+Australia & Oceania,Australia,Australia,Darch,2016,12,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.6476326,0.3523674011230469
+Australia & Oceania,Australia,Australia,Melbourne,2019,2,Seminyak Beach,Beaches,Douala,Cameroon,Couples,2.0,3.605037,1.605036973953247
+Australia & Oceania,Australia,Australia,Merimbula,2015,5,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,4.0,4.169674,0.16967391967773438
+Europe,Western Europe,France,Sommieres,2016,3,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.1122456,0.8877544403076172
+America,Northern America,Canada,Ottawa,2014,6,Sanur Beach,Beaches,Douala,Cameroon,Couples,4.0,3.894256,0.1057438850402832
+Australia & Oceania,Australia,Australia,Geelong,2019,5,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.662591,0.33740901947021484
+Asia,South East Asia,Indonesia,Purwokerto,2017,12,Malioboro Road,Flea & Street Markets,N'Djamena,Chad,Couples,3.0,4.1372924,1.1372923851013184
+America,Northern America,United States,Kirkland,2017,12,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,4.0,4.288353,0.28835296630859375
+America,Northern America,United States,Oakland,2016,12,Waterbom Bali,Water Parks,Douala,Cameroon,Couples,4.0,4.8404703,0.8404703140258789
+America,Northern America,United States,Plymouth,2018,9,Uluwatu Temple,Religious Sites,Douala,Cameroon,Friends,2.0,4.1584315,2.1584315299987793
+Asia,South East Asia,Indonesia,Sanur,2019,3,Sanur Beach,Beaches,Douala,Cameroon,Couples,4.0,4.444991,0.4449911117553711
+Asia,South Asia,India,Bengaluru,2014,10,Uluwatu Temple,Religious Sites,Douala,Cameroon,Couples,4.0,4.382428,0.3824281692504883
+Europe,Central Europe,Poland,Cekcyn,2017,9,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,4.326829,0.6731710433959961
+Asia,South East Asia,Malaysia,Shah Alam,2013,12,Ullen Sentalu Museum,History Museums,N'Djamena,Chad,Friends,3.0,4.1932187,1.19321870803833
+Europe,Central Europe,Austria,Graz,2017,8,Seminyak Beach,Beaches,Douala,Cameroon,Couples,3.0,3.8816416,0.8816416263580322
+Asia,South East Asia,Indonesia,Nusa Dua,2017,6,Nusa Dua Beach,Beaches,Douala,Cameroon,Business,5.0,4.791211,0.20878887176513672
+Europe,Southern Europe,Spain,Sotogrande,2016,3,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.216062,0.783937931060791
+Europe,Western Europe,United Kingdom,Bexleyheath,2018,4,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Couples,5.0,4.3995123,0.6004877090454102
+Europe,Western Europe,United Kingdom,Bristol,2016,5,Sewu Temple,Ancient Ruins,N'Djamena,Chad,Friends,4.0,4.109989,0.10998916625976562
+Europe,Western Europe,Netherlands,Amsterdam,2018,1,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.3409467,0.6590533256530762
+Europe,Central Europe,Germany,Feldkirchen-Westerham,2014,8,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,2.0,4.090469,2.0904688835144043
+Australia & Oceania,Australia,Australia,Kalgoorlie-Boulder,2019,6,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Friends,4.0,4.1714654,0.17146539688110352
+Australia & Oceania,Australia,Australia,Sydney,2016,11,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.75647,0.2435297966003418
+Asia,South East Asia,Indonesia,Jakarta,2016,5,Seminyak Beach,Beaches,Douala,Cameroon,Friends,5.0,4.1304717,0.8695282936096191
+Australia & Oceania,Australia,Australia,Brisbane,2016,12,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Family,3.0,3.9056456,0.9056456089019775
+Australia & Oceania,Oceania,New Zealand,Papamoa,2013,10,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.5752788,0.42472124099731445
+Australia & Oceania,Australia,Australia,Canberra,2019,8,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,4.167347,0.8326530456542969
+Asia,South East Asia,Indonesia,Surabaya,2015,12,Sanur Beach,Beaches,Douala,Cameroon,Family,3.0,4.4173627,1.4173626899719238
+Asia,South East Asia,Indonesia,Purwokerto,2016,8,Ullen Sentalu Museum,History Museums,N'Djamena,Chad,Friends,4.0,4.337394,0.33739423751831055
+Asia,South Asia,India,Kollam,2018,1,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,4.0,4.2079716,0.20797157287597656
+Australia & Oceania,Australia,Australia,Frenchs Forest,2016,10,Waterbom Bali,Water Parks,Douala,Cameroon,Family,4.0,4.583726,0.5837259292602539
+Europe,Western Europe,United Kingdom,London,2015,5,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.184038,0.8159618377685547
+Asia,South East Asia,Indonesia,Depok,2017,12,Nusa Dua Beach,Beaches,Douala,Cameroon,Family,5.0,4.7221823,0.2778177261352539
+Europe,Western Europe,United Kingdom,Glasgow,2014,7,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.1518736,0.8481264114379883
+Australia & Oceania,Australia,Australia,Frenchs Forest,2016,7,Sanur Beach,Beaches,Douala,Cameroon,Family,4.0,4.001505,0.0015048980712890625
+Europe,Western Europe,United Kingdom,London,2016,2,Kuta Beach - Bali,Beaches,Douala,Cameroon,Solo,4.0,3.2914927,0.7085072994232178
+Asia,South East Asia,Indonesia,Denpasar,2016,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.364426,0.6355738639831543
+America,Northern America,United States,Lafayette,2019,1,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,4.0,4.5572524,0.5572524070739746
+Europe,Western Europe,United Kingdom,Bedale,2018,4,Nusa Dua Beach,Beaches,Douala,Cameroon,Couples,5.0,4.314762,0.6852378845214844
+Asia,South East Asia,Singapore,Singapore,2017,2,Yogyakarta Palace,Historic Sites,N'Djamena,Chad,Solo,5.0,4.0328646,0.9671354293823242
+Europe,Northern Europe,Sweden,Laholm,2014,4,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,3.0,4.024267,1.0242671966552734
+America,Northern America,United States,Houston,2015,11,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,3.0,4.249039,1.2490391731262207
+Europe,Central Europe,Czech Republic,Pilsen,2017,10,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Couples,3.0,4.0091844,1.0091843605041504
+America,Northern America,United States,Irvine,2016,1,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Family,5.0,4.4378195,0.5621805191040039
+Europe,Western Europe,United Kingdom,Newport,2015,8,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.2582955,0.7417044639587402
+Asia,South Asia,India,Uttarakhand,2017,6,Balekambang Beach,Beaches,South Region,Cameroon,Friends,5.0,4.493433,0.5065670013427734
+Australia & Oceania,Australia,Australia,St Kilda,2019,4,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Solo,4.0,4.2795672,0.27956724166870117
+Asia,South East Asia,Singapore,Singapore,2019,12,Sanur Beach,Beaches,Douala,Cameroon,Couples,4.0,4.156616,0.1566162109375
+Australia & Oceania,Australia,Australia,Walpole,2020,1,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.7672954,0.23270463943481445
+Asia,South East Asia,Indonesia,Surabaya,2013,4,Waterbom Bali,Water Parks,Douala,Cameroon,Family,3.0,4.6950574,1.6950573921203613
+Australia & Oceania,Australia,Australia,Burra,2018,2,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,4.280496,0.7195038795471191
+Australia & Oceania,Australia,Australia,Greater Perth,2015,8,Waterbom Bali,Water Parks,Douala,Cameroon,Couples,4.0,4.6655865,0.6655864715576172
+America,Northern America,Canada,Canada,2015,7,Yogyakarta Palace,Historic Sites,N'Djamena,Chad,Family,5.0,3.3000433,1.6999566555023193
+Australia & Oceania,Australia,Australia,Melbourne,2015,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,5.0,4.205276,0.7947239875793457
+Australia & Oceania,Australia,Australia,Blue Mountains,2015,6,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Friends,3.0,4.373439,1.373438835144043
+Australia & Oceania,Australia,Australia,Brisbane,2016,4,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.6081395,0.3918604850769043
+America,Northern America,United States,Syracuse,2016,9,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Family,3.0,4.092693,1.0926928520202637
+Australia & Oceania,Australia,Australia,Sydney,2017,4,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Family,5.0,3.784617,1.2153830528259277
+Africa,West Africa,NIGERIA,Abuja,2016,9,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Friends,4.0,3.6523268,0.3476731777191162
+America,Northern America,United States,Dallas,2019,9,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,5.0,4.19222,0.8077797889709473
+Australia & Oceania,Australia,Australia,Hobart,2014,6,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.5442686,0.4557313919067383
+Asia,South East Asia,Singapore,Singapore,2014,3,Sewu Temple,Ancient Ruins,N'Djamena,Chad,Friends,4.0,3.7959344,0.20406556129455566
+America,Northern America,United States,Bozeman,2017,5,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,4.0,4.369136,0.36913585662841797
+Europe,Western Europe,United Kingdom,Pontypridd,2015,9,Ratu Boko Temple,Ancient Ruins,N'Djamena,Chad,Friends,4.0,4.196025,0.19602489471435547
+Europe,Central Europe,Romania,Bucharest,2016,5,Tanah Lot Temple,Religious Sites,Douala,Cameroon,Family,5.0,4.2779117,0.7220883369445801
+Europe,Western Europe,United Kingdom,Manchester,2017,4,Seminyak Beach,Beaches,Douala,Cameroon,Couples,1.0,3.5578434,2.5578434467315674
+Australia & Oceania,Australia,Australia,Sydney,2018,11,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,3.0,4.1601033,1.1601033210754395
+Europe,Western Europe,United Kingdom,Preesall,2018,9,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,4.1861734,0.8138265609741211
+Africa,Southern Africa,South Africa,Cape Town Central,2016,7,Kuta Beach - Bali,Beaches,Douala,Cameroon,Family,3.0,3.4605038,0.46050381660461426
+America,Northern America,United States,New York City,2019,5,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Solo,4.0,4.3957524,0.3957524299621582
+America,Northern America,United States,Washington DC,2016,4,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.5823836,0.4176163673400879
+Australia & Oceania,Australia,Australia,Sydney,2015,7,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.660993,0.3390069007873535
+Australia & Oceania,Australia,Australia,Melbourne,2016,12,Kuta Beach - Bali,Beaches,Douala,Cameroon,Couples,2.0,2.2584007,0.25840067863464355
+Europe,Central Europe,Switzerland,Zurich,2015,8,Sanur Beach,Beaches,Douala,Cameroon,Friends,4.0,3.5389907,0.46100926399230957
+Australia & Oceania,Australia,Australia,South Fremantle,2013,3,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.670099,0.32990121841430664
+America,Northern America,Canada,St. Albert,2017,3,Uluwatu Temple,Religious Sites,Douala,Cameroon,Couples,5.0,4.2048073,0.7951927185058594
+Asia,South East Asia,Indonesia,Bali,2017,9,Ullen Sentalu Museum,History Museums,N'Djamena,Chad,Family,4.0,4.2744617,0.2744617462158203
+Asia,Middle East,United Arab Emirates,Dubai,2018,8,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Solo,4.0,4.3175774,0.3175773620605469
+Europe,Northern Europe,Denmark,Vejle,2016,7,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,2.0,3.8448951,1.8448951244354248
+Asia,South Asia,India,Vadodara,2015,10,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Solo,4.0,4.201048,0.2010478973388672
+Asia,South East Asia,Thailand,Ko Samui,2016,9,Seminyak Beach,Beaches,Douala,Cameroon,Friends,5.0,4.0943694,0.9056305885314941
+Australia & Oceania,Australia,Australia,Melbourne,2015,11,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,3.0,4.2167277,1.2167277336120605
+Australia & Oceania,Oceania,New Zealand,Christchurch,2022,9,Tegenungan Waterfall,Waterfalls,Douala,Cameroon,Friends,3.0,3.2954457,0.29544568061828613
+Europe,Western Europe,United Kingdom,Chelmsford,2018,4,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Friends,4.0,4.1906424,0.1906423568725586
+Europe,Central Europe,Germany,Munich,2016,1,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Solo,3.0,4.3124747,1.3124747276306152
+Asia,South Asia,India,Bangalore,2016,1,Uluwatu Temple,Religious Sites,Douala,Cameroon,Couples,5.0,4.441485,0.5585150718688965
+Asia,South East Asia,Indonesia,Bali,2014,8,Waterbom Bali,Water Parks,Douala,Cameroon,Family,4.0,4.642283,0.6422829627990723
+Asia,South Asia,India,Mumbai,2017,10,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,4.0579076,0.9420924186706543
+Australia & Oceania,Australia,Australia,Gold Coast,2017,1,Waterbom Bali,Water Parks,Douala,Cameroon,Family,4.0,4.646284,0.6462841033935547
+Europe,Southern Europe,Spain,Leon,2017,6,Uluwatu Temple,Religious Sites,Douala,Cameroon,Couples,5.0,3.9966934,1.0033066272735596
+Europe,Central Europe,Switzerland,Switzerland,2016,10,Sanur Beach,Beaches,Douala,Cameroon,Couples,4.0,3.791411,0.2085890769958496
+Europe,Western Europe,United Kingdom,Pontypridd,2016,2,Merapi Volcano,Volcanos,N'Djamena,Chad,Friends,4.0,4.247564,0.24756383895874023
+America,Northern America,United States,Greenwich,2016,2,Merapi Volcano,Volcanos,N'Djamena,Chad,Couples,1.0,4.1366386,3.136638641357422
+Australia & Oceania,Australia,Australia,Perth,2017,7,Kuta Beach - Bali,Beaches,Douala,Cameroon,Friends,5.0,3.8245468,1.1754531860351562
+Australia & Oceania,Australia,Australia,Australian Capital Territory,2017,1,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Friends,2.0,4.4925103,2.4925103187561035
+Australia & Oceania,Australia,Australia,Denmark,2015,8,Sanur Beach,Beaches,Douala,Cameroon,Couples,4.0,4.1102443,0.1102442741394043
+Asia,South Asia,Sri Lanka,Colombo,2016,6,Waterbom Bali,Water Parks,Douala,Cameroon,Friends,5.0,4.7373915,0.26260852813720703
+Europe,Central Europe,Romania,Bucharest,2016,8,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.4460196,0.5539803504943848
+Australia & Oceania,Australia,Australia,Sydney,2017,5,Uluwatu Temple,Religious Sites,Douala,Cameroon,Friends,5.0,4.059917,0.9400830268859863
+Australia & Oceania,Australia,Australia,Adelaide,2017,1,Merapi Volcano,Volcanos,N'Djamena,Chad,Family,4.0,4.0375957,0.03759574890136719
+Asia,South East Asia,Malaysia,Kuala Lumpur,2018,5,Seminyak Beach,Beaches,Douala,Cameroon,Family,3.0,3.8837755,0.8837754726409912
+Asia,South East Asia,Singapore,Singapore,2015,3,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Friends,4.0,4.01723,0.01723003387451172
+Asia,South Asia,India,Mumbai,2016,9,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,4.0,4.0457025,0.045702457427978516
+Europe,Central Europe,Poland,Wroclaw,2015,9,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Friends,3.0,3.8875086,0.8875086307525635
+Australia & Oceania,Australia,Australia,Shellharbour,2016,7,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Family,4.0,4.1782374,0.1782374382019043
+Australia & Oceania,Oceania,New Zealand,Napier,2016,8,Waterbom Bali,Water Parks,Douala,Cameroon,Family,4.0,4.6918473,0.6918473243713379
+Australia & Oceania,Australia,Australia,Melbourne,2022,6,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,1.0,4.2684455,3.2684454917907715
+Asia,Middle East,Saudi Arabia,Riyadh,2017,11,Tegalalang Rice Terrace,Points of Interest & Landmarks,Douala,Cameroon,Couples,5.0,4.3679857,0.632014274597168
+Asia,South East Asia,Singapore,Singapore,2015,10,Waterbom Bali,Water Parks,Douala,Cameroon,Friends,5.0,4.5459414,0.4540586471557617
+America,Northern America,United States,Greenwich,2015,10,Malioboro Road,Flea & Street Markets,N'Djamena,Chad,Family,3.0,3.917222,0.9172220230102539
+Australia & Oceania,Australia,Australia,Albany,2016,11,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.576111,0.42388916015625
+Australia & Oceania,Australia,Australia,Melbourne,2019,3,Sacred Monkey Forest Sanctuary,Nature & Wildlife Areas,Douala,Cameroon,Couples,5.0,4.284024,0.7159762382507324
+Australia & Oceania,Australia,Australia,Berkeley Vale,2015,10,Waterbom Bali,Water Parks,Douala,Cameroon,Family,5.0,4.6590257,0.3409743309020996
+Europe,Western Europe,United Kingdom,Haslemere,2013,11,Nusa Dua Beach,Beaches,Douala,Cameroon,Couples,5.0,4.234969,0.7650308609008789
